@@ -116,8 +116,14 @@ Introduce a **7-day free trial** for Colonist subscriptions (Plus/Premium/Elite)
 
 * Benchmarks:
   - RevenueCat — trial conversion insights (median ~45%): https://www.revenuecat.com/blog/growth/app-trial-conversion-rate-insights
-  - Kasva — subscription metrics (install→trial ~3.7%, trial→paid ~38%): https://www.kasva.io/post/subscription-metrics-that-matter
-  - (Optional) Pathmonk — free-to-paid ranges (20–50% uplift): https://pathmonk.com/what-is-the-average-free-to-paid-conversion-rate-saas
+  - RevenueCat (2023) — State of Subscription Apps: Industry benchmarks showing ~38% average trial→paid conversion for mobile apps.  
+    https://www.revenuecat.com/state-of-subscription-apps-2023/
+  - Duolingo Case Study (Nico Bottaro, Medium) — 7 Lessons on How Duolingo Increased Premium Users by 176% (7-day free trial cited as key growth lever).  
+    https://medium.com/%40nicobottaro/monetization-7-lessons-on-how-duolingo-increased-premium-users-by-176-from-3-to-8-8-42e8d63b58f2
+  - Lenny Rachitsky Newsletter — What is a Good Free-to-Paid Conversion Rate? (7-day trials outperform shorter or no-trial setups).  
+    https://www.lennysnewsletter.com/p/what-is-a-good-free-to-paid-conversion
+ 
+
 * Internal funnel (July): Web 0.13%, Discord 0.14%, Mobile 0.36% purchased at least once (screens provided)
 
 ## Reviewer
